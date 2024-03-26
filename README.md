@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate coder and tech enthusiast |<br>Web development expert <br>Proficient in SQL and DBMS <br>Zealot for blockchain technology <br>Let's make a tech-driven impact
+Passionate coder and tech enthusiast <br>Web development expert <br>Proficient in SQL and DBMS <br>Zealot for blockchain technology <br>Let's make a tech-driven impact
 
 
 ## 🌐 Socials:
