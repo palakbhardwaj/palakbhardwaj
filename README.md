@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Palak Bhardwaj</h1>
 
-<img  align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <h3 align="left">Passionate coder and tech enthusiast | Web development expert | Proficient in SQL and DBMS | Zealot for blockchain technology | Let's make a tech-driven impact</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;
+<img  align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=palakbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="palakbhardwaj" /> </p>
 
