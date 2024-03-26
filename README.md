@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Palak Bhardwaj</h1>
 
 
-<h3 align="left">Passionate coder and tech enthusiast | Web development expert | Proficient in SQL and DBMS | Zealot for blockchain technology | Let's make a tech-driven impact</h3>
+<h3 align="left""Tech virtuoso on a mission! 💻 Crafting webs like a maestro, SQL mastery on demand, and blockchain believer leading the charge! Let's inject some serious spice into our tech-driven endeavors! 💥 #CodePassion #TechVibe #BlockchainRevolution 🚀"t</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palakbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="palakbhardwaj" /> </p>
