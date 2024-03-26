@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Palak Bhardwaj</h1>
 
+<h3 align="left">Tech virtuoso on a mission! 💻<br>Crafting webs like a maestro,<br>SQL mastery on demand,<br>and blockchain believer leading the charge!<br>Let's inject some serious spice into our tech-driven endeavors! 💥<br>#CodePassion #TechVibe #BlockchainRevolution 🚀</h3>
 
-<h3 align="left">Tech virtuoso on a mission! 💻 Crafting webs like a maestro, SQL mastery on demand, and blockchain believer leading the charge! Let's inject some serious spice into our tech-driven endeavors! 💥 #CodePassion #TechVibe #BlockchainRevolution 🚀</h3>
+
 
 
 
