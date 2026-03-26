@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Palak Bhardwaj</h1>
 
-<!-- 🔥 TOP GIF -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif" width="300"/>
 </p>
 
-<!-- ✨ TAGLINE -->
 <h3 align="center">
 Tech virtuoso on a mission! 💻 Crafting webs like a maestro, SQL mastery on demand, 
 and blockchain believer leading the charge! 🚀 <br><br>
@@ -15,25 +13,14 @@ Let's inject some serious spice into our tech-driven endeavors! 💥 <br>
 
 <br>
 
-<!-- 👁️ PROFILE VIEWS -->
-<p align="left">
+<p>
   <img src="https://komarev.com/ghpvc/?username=palakbhardwaj&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<!-- 🏆 TROPHIES -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=palakbhardwaj" />
-  </a>
-</p>
-
-<!-- 🔗 CONNECT -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         height="30" width="40" />
+<h3>Connect with me:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
 </p>
 
