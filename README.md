@@ -1,32 +1,32 @@
 <h1 align="center">Hi 👋, I'm Palak Bhardwaj</h1>
 
-<!-- ✅ Fixed GIF at the top -->
+<!-- 🔥 GIF at top -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif" width="300"/>
 </p>
 
 <h3 align="center">
 Tech virtuoso on a mission! 💻 Crafting webs like a maestro, SQL mastery on demand, 
-and blockchain believer leading the charge! 🚀  
-Let's inject some serious spice into our tech-driven endeavors! 💥  
+and blockchain believer leading the charge! 🚀 <br>
+Let's inject some serious spice into our tech-driven endeavors! 💥 <br>
 #CodePassion #TechVibe #BlockchainRevolution
 </h3>
 
 <br>
 
-<!-- Profile Views -->
+<!-- ✅ Profile Views FIXED -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=palakbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="palakbhardwaj" />
+  <img src="https://komarev.com/ghpvc/?username=palakbhardwaj&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<!-- Trophies -->
+<!-- 🏆 GitHub Trophies -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=palakbhardwaj" alt="palakbhardwaj" />
+    <img src="https://github-profile-trophy.vercel.app/?username=palakbhardwaj" />
   </a>
 </p>
 
-<!-- Connect -->
+<!-- 🔗 Connect -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
@@ -36,7 +36,7 @@ Let's inject some serious spice into our tech-driven endeavors! 💥
   </a>
 </p>
 
-<!-- Skills -->
+<!-- 🛠️ Skills -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
@@ -86,7 +86,9 @@ Let's inject some serious spice into our tech-driven endeavors! 💥
 
 </p>
 
-<!-- GitHub Stats -->
+<br>
+
+<!-- 📊 GitHub Stats -->
 <p>
   <img align="left" 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=palakbhardwaj&show_icons=true&locale=en&layout=compact" />
