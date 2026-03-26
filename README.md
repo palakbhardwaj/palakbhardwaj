@@ -11,7 +11,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=palakbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="palakbhardwaj" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=palakbhardwaj&label=Profile%20views&color=0e75b6&style=flat](https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif)" alt="palakbhardwaj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palakbhardwaj" alt="palakbhardwaj" /></a> </p>
 
