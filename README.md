@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 - 🎓 **M.Tech Computer Science Student**  
-- 🔬 Working on **Saliency-Based Object Detection in Camouflage Environments**  
+- 🔬 Worked on **Saliency-Based Object Detection in Camouflage Environments**  
 - 🤖 Focused on **Machine Learning, Deep Learning & Computer Vision**  
 - 📊 Experienced with **Faster R-CNN, YOLO, SSD (Pascal VOC & CAMO datasets)**  
 - 💻 Strong foundation in **DSA, OS, DBMS, CN, OOPS**  
