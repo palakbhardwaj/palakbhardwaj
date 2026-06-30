@@ -50,26 +50,20 @@ M.Tech Computer Science Student • AI Research Enthusiast • Computer Vision
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/palakbhardwaj03/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:bhardwajpalak777@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/palakbhardwaj03/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:bhardwajpalak777@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  </a>
 </p>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/palakbhardwaj03/">LinkedIn</a> •
-<a href="mailto:bhardwajpalak777@gmail.com">bhardwajpalak777@gmail.com</a>
-
+  <a href="https://www.linkedin.com/in/palakbhardwaj03/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:bhardwajpalak777@gmail.com">bhardwajpalak777@gmail.com</a>
 </p>
-
 ---
 
 # 🛠️ Tech Stack
