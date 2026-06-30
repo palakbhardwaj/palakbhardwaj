@@ -5,16 +5,11 @@ M.Tech Computer Science Student • AI Research Enthusiast • Computer Vision
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=M.Tech+Computer+Science+Student;Artificial+Intelligence;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Multimodal+AI;Building+Intelligent+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=M.Tech+Computer+Science+Student;Artificial+Intelligence;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Multimodal+AI;Building+Intelligent+Systems"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=palakbhardwaj&label=Profile+Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/palakbhardwaj?label=Followers&style=social"/>
-</p>
-
-<p align="center">
-<img src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif" width="330"/>
+  <img src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif" width="320"/>
 </p>
 
 ---
@@ -22,26 +17,26 @@ M.Tech Computer Science Student • AI Research Enthusiast • Computer Vision
 ## 👩‍💻 About Me
 
 - 🎓 M.Tech Student in Computer Science
-- 🔬 Interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Multimodal AI
-- 📚 Exploring Knowledge Graphs, Vision-Language Models, and Explainable AI
+- 🔬 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Multimodal AI
+- 📚 Exploring Knowledge Graphs, Vision-Language Models, Explainable AI, and Graph Neural Networks
 - 💻 Strong foundation in Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, and Object-Oriented Programming
-- 🚀 Passionate about building AI solutions for real-world applications
+- 🚀 Interested in developing intelligent systems that solve real-world problems through AI
 
 ---
 
 ## 🔭 Current Focus
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Multimodal Learning
-- Knowledge Graphs
-- AI Research
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning & Deep Learning
+- 👁️ Computer Vision
+- 🔗 Knowledge Graphs
+- 🖼️ Vision-Language Models
+- 📊 Multimodal Learning
+- 📖 AI Research
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/palakbhardwaj03/" target="_blank">
@@ -57,19 +52,19 @@ M.Tech Computer Science Student • AI Research Enthusiast • Computer Vision
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql,matlab"/>
 </p>
 
-### AI & Machine Learning
+### 🤖 AI & Machine Learning
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn"/>
 </p>
 
-### Tools
+### ⚙️ Tools & Platforms
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma"/>
@@ -81,9 +76,9 @@ M.Tech Computer Science Student • AI Research Enthusiast • Computer Vision
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=palakbhardwaj&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=palakbhardwaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=palakbhardwaj&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=palakbhardwaj&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -95,10 +90,10 @@ M.Tech Computer Science Student • AI Research Enthusiast • Computer Vision
 
 ---
 
-## 📈 Contribution Graph
+## 📅 GitHub Contribution Calendar
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=palakbhardwaj&theme=tokyo-night&hide_border=true"/>
+<img src="https://ghchart.rshah.org/40c463/palakbhardwaj" alt="GitHub Contribution Calendar"/>
 </p>
 
 ---
@@ -113,16 +108,29 @@ M.Tech Computer Science Student • AI Research Enthusiast • Computer Vision
 - Knowledge Graphs
 - Vision-Language Models
 - Explainable AI
+- Graph Neural Networks
 
 ---
 
 ## 🌱 Currently Learning
 
 - Vision-Language Models
-- Knowledge Graph Construction
+- Large Language Models
 - Graph Neural Networks
 - Explainable AI
-- Large Language Models
+- Multimodal Reasoning
+- Knowledge Graph Construction
+
+---
+
+## 📌 Featured Areas
+
+- 🧠 Artificial Intelligence
+- 👁️ Computer Vision
+- 🤖 Machine Learning
+- 📊 Deep Learning
+- 🔗 Knowledge Graphs
+- 📝 AI Research
 
 ---
 
@@ -133,5 +141,9 @@ M.Tech Computer Science Student • AI Research Enthusiast • Computer Vision
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to connect and collaborate.
+⭐ Thank you for visiting my profile! ⭐
+</p>
+
+<p align="center">
+Feel free to connect and collaborate on AI, Machine Learning, and Computer Vision research.
 </p>
