@@ -13,12 +13,16 @@
 ---
 
 ### 🧠 About Me
-- 🎓 **M.Tech Computer Science Student**  
-- 🔬 Worked on **Saliency-Based Object Detection in Camouflage Environments**  
-- 🤖 Focused on **Machine Learning, Deep Learning & Computer Vision**  
-- 📊 Experienced with **Faster R-CNN, YOLO, SSD (Pascal VOC & CAMO datasets)**  
-- 💻 Strong foundation in **DSA, OS, DBMS, CN, OOPS**  
-- 📈 Interested in **Research + Real-world AI applications**
+🎓 M.Tech Student in Computer Science
+
+🔬 Exploring Machine Learning and Computer Vision through research
+
+🤖 Interested in Deep Learning, AI, and Multimodal Learning
+
+💻 Skilled in Python and core Computer Science fundamentals
+
+📈 Driven by research and practical AI applications
+
 
 ---
 
