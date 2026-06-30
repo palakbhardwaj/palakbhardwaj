@@ -36,12 +36,12 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql,matlab,figma" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,mysql,git,github,linux,vscode" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,html,css,js" />
+</p>
 ---
 
 ### 📊 GitHub Stats
