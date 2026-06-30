@@ -9,29 +9,29 @@ M.Tech Computer Science Student • AI Research Enthusiast • Computer Vision
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=palakbhardwaj&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=palakbhardwaj&label=Profile+Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/palakbhardwaj?label=Followers&style=social" />
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif" width="360"/>
+<img src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif" width="340">
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 M.Tech Student in Computer Science with a strong interest in Artificial Intelligence and research.
+🎓 M.Tech Student in Computer Science.
 
-🔬 Exploring Machine Learning, Deep Learning, Computer Vision, Multimodal Learning, and Explainable AI.
+🔬 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Multimodal AI.
 
 💻 Strong foundation in Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, and Object-Oriented Programming.
 
-📚 Passionate about building intelligent systems that solve real-world problems through data-driven approaches.
+📚 Exploring Vision-Language Models, Knowledge Graphs, Explainable AI, and Multimodal Learning.
 
-🌱 Currently exploring Knowledge Graphs, Vision-Language Models, and multimodal reasoning.
+🚀 Interested in building intelligent systems that bridge research and real-world applications.
 
-🚀 Open to research collaborations, internships, and opportunities in Artificial Intelligence and Machine Learning.
+🌱 Always learning, experimenting, and contributing to AI research.
 
 ---
 
@@ -43,21 +43,30 @@ M.Tech Computer Science Student • AI Research Enthusiast • Computer Vision
 - 🔗 Knowledge Graphs
 - 🖼️ Vision-Language Models
 - 📊 Multimodal Learning
-- 📖 AI Research
+- 📖 Research & Publications
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://www.linkedin.com/in/palakbhardwaj03/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:bhardwajpalak777@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/palakbhardwaj03/">LinkedIn</a> •
+<a href="mailto:bhardwajpalak777@gmail.com">bhardwajpalak777@gmail.com</a>
 
 </p>
 
@@ -68,19 +77,19 @@ M.Tech Computer Science Student • AI Research Enthusiast • Computer Vision
 ### 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql,matlab" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql,matlab"/>
 </p>
 
 ### 🤖 AI • Machine Learning • Computer Vision
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn"/>
 </p>
 
 ### ⚙️ Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma"/>
 </p>
 
 ---
@@ -111,14 +120,6 @@ M.Tech Computer Science Student • AI Research Enthusiast • Computer Vision
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=palakbhardwaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-</p>
-
----
-
 # 📚 Research Interests
 
 - Artificial Intelligence
@@ -126,35 +127,37 @@ M.Tech Computer Science Student • AI Research Enthusiast • Computer Vision
 - Deep Learning
 - Computer Vision
 - Multimodal Learning
-- Knowledge Graphs
 - Vision-Language Models
+- Knowledge Graphs
 - Explainable AI
 - Pattern Recognition
 
 ---
 
-# 📌 Currently Learning
+# 📖 Currently Learning
 
-- 🔗 Knowledge Graph Construction
-- 🧠 Graph Neural Networks
-- 👁️ Vision-Language Models
-- 🤖 Large Language Models
-- 📊 Explainable AI
-- 🧩 Multimodal Reasoning
-
----
-
-# 🚀 Featured Projects
-
-- 🔹 AI-based Computer Vision Projects
-- 🔹 Multimodal Learning Research
-- 🔹 Deep Learning Applications
-- 🔹 Knowledge Graph Construction
-- 🔹 Intelligent Data Analysis
+- Knowledge Graph Construction
+- Vision-Language Models
+- Large Language Models
+- Graph Neural Networks
+- Explainable AI
+- Multimodal Reasoning
 
 ---
 
-# 📈 GitHub Metrics
+# 🚀 Featured Areas
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Knowledge Graphs
+- Intelligent Systems
+- AI Research
+
+---
+
+# 📈 GitHub Summary
 
 <p align="center">
 
@@ -185,5 +188,5 @@ M.Tech Computer Science Student • AI Research Enthusiast • Computer Vision
 <h3 align="center">⭐ Thank you for visiting my profile! ⭐</h3>
 
 <p align="center">
-<i>Let's connect, collaborate, and build impactful AI solutions together.</i>
+Let's connect, collaborate, and build impactful AI solutions together.
 </p>
